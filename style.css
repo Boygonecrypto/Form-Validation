@@ -115,7 +115,7 @@ img {
 #passwordcontainer button {
   background: transparent;
   color: black;
-  display: inline;
+  /* display: inline; */
   border: none;
   cursor: pointer;
   width: 70px;
@@ -130,7 +130,7 @@ img {
 #passwordcontainer2 button {
   background: transparent;
   color: black;
-  display: inline;
+  /* display: inline; */
   border: none;
   cursor: pointer;
   width: 70px;
